@@ -2,7 +2,7 @@
 Python is a key language in data science. Focus on libraries and frameworks commonly used in the field:
 - **NumPy**: For numerical operations. -> OK
 - **Pandas**: For data manipulation and analysis. -> OK
-- **Matplotlib and Seaborn**: For data visualization. -> Learning
+- **Matplotlib and Seaborn**: For data visualization. -> OK
 - **Scikit-learn**: For machine learning.
 
 ### 2. **Learn Data Visualization**
