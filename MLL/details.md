@@ -7,7 +7,7 @@ Python is a key language in data science. Focus on libraries and frameworks comm
 
 ### 2. **Learn Data Visualization**
 Understanding data through visual representation is crucial. In addition to Matplotlib and Seaborn, consider learning:
-- **Plotly**: For interactive plots.
+- **Plotly**: For interactive plots. ->OK
 -Video: "Interactive Data Visualization in Python With Plotly and Dash" by Corey Schafer
 - **Tableau or Power BI**: Popular tools for business intelligence and dashboard creation.
 Video: "Power BI Full Course - Learn Power BI in 4 Hours | Power BI Tutorial | Edureka"
